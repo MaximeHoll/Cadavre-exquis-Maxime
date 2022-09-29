@@ -13,6 +13,7 @@ Les souris ce retrouve dans la cabane d'un petit cochon.
 
 Un loup arrive et prend un grand souffle.
 
+<<<<<<< HEAD
 Le vent sortant de sa bouche ballaye la maison.
 
 Le souris s'en va en courrant.
@@ -26,3 +27,6 @@ Il est vrai que la coherence de ce projet laisse a desirer ! Enfin continuons.
 Des petits hommes verts arrivent au milieu de tout ca.
 
 Ce sont des touristes intergalactiques!
+=======
+Le vent sortant de sa bouche ballaye la maison. (edit branch)
+>>>>>>> Tanguy
