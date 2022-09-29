@@ -39,3 +39,7 @@ Un de ces touristes ce présente à la souris
 
 "il a l'air compétent ce type", ce dit la souris 
 >>>>>>> jerome
+
+"Ou pas" dit le loup!
+
+Le loup avait fin alors il mangea le cochon.
