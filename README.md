@@ -15,7 +15,7 @@ Un loup arrive et prend un grand souffle.
 
 Le vent sortant de sa bouche ballaye la maison.
 
-Le souris s'en va en courrant.
+La souris s'en va en courrant.
 
 Il pass a coté d'une soricère.
 
@@ -26,3 +26,9 @@ Il est vrai que la coherence de ce projet laisse a desirer ! Enfin continuons.
 Des petits hommes verts arrivent au milieu de tout ca.
 
 Ce sont des touristes intergalactiques!
+
+Un de ces touristes ce présente à la souris
+
+"Salut c'est Maxime de la planète BeCode"
+
+"il a l'air compétent ce type", ce dit la souris 
